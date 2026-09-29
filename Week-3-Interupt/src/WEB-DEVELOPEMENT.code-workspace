@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "../../../Users/Noman/Desktop/WEB-DEVELOPEMENT"
+		},
+		{
+			"name": "IOT-TASK-01-1098",
+			"path": "../../IOT-TASK-01-1098"
+		},
+		{
+			"name": "Week-3-Interupt",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "WEB-DEVELOPEMENT"
+	}
+}
